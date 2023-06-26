@@ -25,6 +25,6 @@ The project be mainly an interactive game, which is graphically beautiful, techn
 
 
 ### Contact
-You can communicate by following e-mails If you have more questions about the project or tp get the src code :
+You can communicate by following e-mails If you have more questions about the project or to get the all src code :
 
 o mohamedgasser230@gmail.com
